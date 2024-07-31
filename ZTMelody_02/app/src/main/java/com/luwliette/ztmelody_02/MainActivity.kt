@@ -25,7 +25,7 @@ import com.luwliette.ztmelody_02.database.SongDatabase
 import com.luwliette.ztmelody_02.databinding.ActivityMainBinding
 import com.luwliette.ztmelody_02.ui.pruebas.GoogleActivity
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {puto
 
     private lateinit var binding: ActivityMainBinding
 
